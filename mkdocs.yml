@@ -1,0 +1,9 @@
+site_name: 守平
+#theme: readthedocs #左靠边的类型
+theme:
+  name: mkdocs
+  locale: zh_CN
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - python
