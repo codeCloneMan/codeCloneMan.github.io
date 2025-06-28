@@ -2,6 +2,8 @@
 
 内容提要：此网站将分享个人读书笔记，期望多多交流，共同进步
 
+[python](../guide/python)
+
 ## 第一模块
 
 * `mkdocs new [dir-name]` - Create a new project.
