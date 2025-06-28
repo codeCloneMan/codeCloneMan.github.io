@@ -1,9 +1,11 @@
-# 读书推荐
+# 主页
 
-[python](../one/read)
+## 读书推荐
 
-# 学习Python
+#### [推荐书](../one/read)
 
-[python](../two/python)
+## 学习Python
+
+#### [python](../two/python)
 
 
